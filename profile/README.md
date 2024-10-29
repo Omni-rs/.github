@@ -1,5 +1,6 @@
 ## Welcome to Omni 👋
 
+![image](https://github.com/Omni-rs/.github/blob/main/assets/omni-bg.png)
 
 <!--
 
