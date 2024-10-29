@@ -1,3 +1,0 @@
-# Omni RS
-
-Welcome to...
