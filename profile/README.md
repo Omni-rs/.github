@@ -13,6 +13,8 @@
 
 * [`examples`](https://github.com/Omni-rs/examples): A set of examples that demonstrate how to use [`omni-transaction-rs`](https://github.com/near/omni-transaction-rs) and [`omni-testing-utilities`](https://github.com/Omni-rs/omni-testing-utilities).
 
+* [`book`](https://github.com/Omni-rs/book): A book with everything you need to develop chain abstracted applications.
+  
 #### Coming soon:
 
 * [`omni-box`](#): A local MPC environment to test your chain abstracts applications.
